@@ -75,9 +75,4 @@ It reads your files to answer. That's the whole game: the better the context, th
 better the help. We'll spend the morning getting good at this in the terminal,
 then bring it into the editor this afternoon.
 
-## A note on "is this cheating?"
-
-Nope. You're still the engineer. You choose what to build, judge whether it's
-right, and own the result. We're just deleting the boring parts. 💚
-
 ➡️ Next: [01 · Claude Code fundamentals](./01-claude-code-fundamentals.md)
