@@ -1,0 +1,16 @@
+{
+  "name": "coding-with-claude",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "CascadiaJS 2026, Coding with Claude workshop (Eve Porcello)",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0"
+  }
+}

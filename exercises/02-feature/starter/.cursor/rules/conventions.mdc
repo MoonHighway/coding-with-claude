@@ -1,0 +1,13 @@
+---
+description: Conventions for the gift-card feature. Apply to all TypeScript here.
+globs: ["**/*.ts"]
+alwaysApply: false
+---
+
+- Named exports only, no default exports.
+- Use `type` aliases for object shapes (not `interface`).
+- Pure functions: no I/O, no mutation of inputs.
+- Validate inputs and `throw new Error(...)` with a clear message on bad input.
+- Round money with a small helper to 2 decimal places (round half up).
+- Every acceptance criterion in SPEC.md gets at least one vitest case.
+- Match the style of the orders exercise (exercises/01-refactor/solution).
