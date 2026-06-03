@@ -8,9 +8,6 @@ a codebase, shipped a feature, written your own Claude Skill, packaged it as a
 plugin, and built something test-first, all by delegating to Claude and reviewing
 its work. Then we'll show how to bring it into your **editor** (Cursor) if you want.
 
-No prior AI-tooling experience needed. You *should* be comfy with TypeScript,
-Node, and the terminal.
-
 ---
 
 ## ⚙️ Setup (do this first, ideally before you arrive)
@@ -30,9 +27,6 @@ Node, and the terminal.
 
 > 💡 No personal Claude login needed today — one shared Gateway key covers the whole
 > room. Want the manual steps (or to use your own key)? See [`.env.example`](./.env.example).
-
-> 🆘 Setup gremlins happen. The first 30 minutes of the day are setup office hours.
-> Come anyway and we'll sort it out together.
 
 ---
 
@@ -60,6 +54,4 @@ Node, and the terminal.
 
 - Each **lesson** is a short read with live demos I'll do at the front.
 - Each **exercise** has a `starter/` (where you work) and a `solution/` (one way to do it, peek if you're stuck, but yours might be better!).
-- There are no wrong answers in AI pairing, only iterations. Experiment loudly.
-
-Let's go. ✨
+- There are no wrong answers in AI pairing, only iterations. 
